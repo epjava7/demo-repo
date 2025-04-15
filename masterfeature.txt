@@ -1,2 +1,1 @@
-This is a master fasd
-Change two.
+This is a master feature.
